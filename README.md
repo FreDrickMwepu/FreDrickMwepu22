@@ -2,13 +2,13 @@
 <h3 align="left">A passionate Software developer/ Robotics Enthusiast from Zambia</h3>
 
 
-- 🔭 I’m currently working on **Church Information Management System**
+- 🔭 I’m currently working on Church Information Management System
 
-- 🌱 I’m currently learning **a lot of things**
+- 🌱 I’m currently learning a lot of things
 
 - 👨‍💻 One of my projects [https://fredrickmwepu.github.io/webpage-api.github.io/](https://fredrickmwepu.github.io/webpage-api.github.io/)
 
-- 📫 How to reach me **fredrickmwepu22@gmail.com**
+- 📫 How to reach me fredrickmwepu22@gmail.com
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/fredrick-mwepu-743110211/](https://www.linkedin.com/in/fredrick-mwepu-743110211/)
 
@@ -31,10 +31,3 @@
 
 
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
