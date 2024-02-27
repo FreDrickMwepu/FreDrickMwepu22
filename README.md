@@ -2,7 +2,7 @@
 
 
 
-<h3 align="left">I'm a passionate Software developer/ Robotics Enthusiast from Zambia</h3>
+<h2 align="left">I'm a passionate Software developer/ Robotics Enthusiast from Zambia</h2>
 
 
 - 🔭 I’m currently working on Church Information Management System
@@ -17,9 +17,8 @@
 
 - ⚡ Fun fact I think i'm Funny
 
-<hr style="border: 1px solid black;">
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/@mwepufredrick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mwepufredrick" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/fredrick mwepu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fredrick mwepu" height="30" width="40" /></a>
@@ -29,9 +28,8 @@
 <a href="https://www.youtube.com/c/fredrick mwepu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fredrick mwepu" height="30" width="40" /></a>
 </p>
 
-<hr style="border: 1px solid black;">
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 
 <p align="left"> 
   
@@ -44,9 +42,21 @@
 
 </p>
 
-<hr style="border: 1px solid black;">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fredrickmwepu&show_icons=true&locale=en&layout=compact" alt="fredrickmwepu" /></p>
+<h2 align="left">Stats ⚡</h2>
+
+
+<img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=fredrickmwepu&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Fredrick's Top Languages" />
+
+
+<h2 >My Contributions 🐍</h2>
+<div align="center">
+
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 
 
