@@ -49,14 +49,6 @@
 <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=fredrickmwepu&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Fredrick's Top Languages" />
 
 
-<h2 >My Contributions 🐍</h2>
-<div align="center">
-
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/fredrickmwepu/fredrickmwepu/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
 
 
